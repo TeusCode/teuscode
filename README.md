@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/54oc7Qc.png" alt="CL Thumb" border="0" width="100%">
+<img src="https://i.imgur.com/54oc7Qc.png" alt="Wallpaper Teus" border="0" width="100%">
 
 # Boas-vindas, eu sou o Matheus 😊
 ```
