@@ -5,6 +5,8 @@
 Programador FullStack e estudante de Segurança da Informação e Computação Forense
 Certificado como Programador de Sistemas pelo SENAC
 Certificado em Segurança da Tecnologia da Informação pela Fundação Bradesco
+Certificado em Hacking e Pentest pela Solyd Offensive Security
+Certificado em Pentest Desec Security
 Certificado em Google Hacking pela XPSec Security
 ```
 
