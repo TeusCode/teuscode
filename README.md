@@ -10,13 +10,11 @@ Certificado em Pentest pela Desec Security
 Certificado em Google Hacking pela XPSec Security
 ```
 
-
+## Contatos
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeusCode)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teus.muniz/)
 
-
-![Acksom GitHub stats](https://github-readme-stats.vercel.app/api?username=TeusCode&show_icons=true&theme=github_dark&count_private=true)
-
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=TeusCode&show_icons=true&theme=github_dark&count_private=true)
 
 ## Sistemas operacionais que possuo experiência
 <div style="display: inline_block">
