@@ -5,9 +5,10 @@
 <p align="left"> 
   Greetings, my name is Matheus. I am a software developer, ethical hacker and information security analyst.<br>
   I study defensive, offensive, and computer forensics cybersecurity.
+  Passionate about figuring out how things work. I have knowledge in Windows, Linux and Android systems.
 </p>
 
-## Certificates
+## 📚 Certificates
 ```
 Systems Programmer at SENAC
 Information Technology Security by Fundação Bradesco
@@ -32,6 +33,4 @@ Google Hacking by XPSec Security
 
 <br>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/windows-19-190819.png" alt="Windows"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png" alt="Linux"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/android-86-432494.png" alt="Android"/></code>
+[![card](https://github-readme-stats.vercel.app/api?username=teuscode&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
