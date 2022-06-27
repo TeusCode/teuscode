@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/54oc7Qc.png" alt="Wallpaper Teus" border="0" width="100%">
+<img src="https://i.imgur.com/eTHQRVO.png" alt="Wallpaper Teus" border="0" width="100%">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Teus">
 
