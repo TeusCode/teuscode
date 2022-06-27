@@ -8,7 +8,7 @@
   Passionate about figuring out how things work. I have knowledge in Windows, Linux and Android systems.
 </p>
 
-## 📚 Certificates
+## 📚 Certificates Earned
 ```
 Systems Programmer at SENAC
 Information Technology Security by Fundação Bradesco
