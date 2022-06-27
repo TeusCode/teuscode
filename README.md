@@ -32,7 +32,6 @@ Google Hacking by XPSec Security
 
 <br>
 
-## 💻 Operating systems I use
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/windows-19-190819.png" alt="Windows"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png" alt="Linux"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/android-86-432494.png" alt="Linux"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/android-86-432494.png" alt="Android"/></code>
