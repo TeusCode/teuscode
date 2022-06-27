@@ -33,4 +33,4 @@ Google Hacking by XPSec Security
 
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=teuscode&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Teus Card](https://github-readme-stats.vercel.app/api?username=teuscode&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
