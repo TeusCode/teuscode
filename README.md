@@ -37,3 +37,6 @@ Google Hacking by XPSec Security
 <br>
 
 [![Teus Card](https://github-readme-stats.vercel.app/api?username=teuscode&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+README criado por Matheus Muniz
+27 de Junho de 2022
