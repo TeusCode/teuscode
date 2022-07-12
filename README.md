@@ -12,6 +12,7 @@
 
 ## 📚 Certificates Earned
 ```
+Cybersecurity Awareness at the Brazilian Institute of Cybersecurity
 Systems Programmer at SENAC
 Introduction to Information Security at eSecurity
 Information Technology Security by Fundação Bradesco
