@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Teus">
+<img src="https://github.com/teuscode/teuscode/blob/main/imagens/others/lobo-logo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Teus">
 
 <p align="left"> 
   Greetings, my name is Matheus. I am a software developer, ethical hacker and information security analyst.<br>
