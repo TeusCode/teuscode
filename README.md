@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/eTHQRVO.png" alt="Wallpaper Teus" border="0" width="100%">
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Teus">
 
 <a href="https://dev.to/teuscode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Meus artigos"></a>
