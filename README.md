@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Teus">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Teus">
 
 <a href="https://dev.to/teuscode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Meus artigos"></a>
 
@@ -10,10 +10,8 @@
 
 ## 📚 Certificates Earned
 ```
-Cybersecurity Awareness at the Brazilian Institute of Cybersecurity
+Certified by the Brazilian Cybersecurity Institute
 Systems Programmer at SENAC
-Introduction to Information Security at eSecurity
-Information Technology Security by Fundação Bradesco
 Hacking and Pentest by Solyd Offensive Security
 Pentest by Desec Security
 Google Hacking by XPSec Security
