@@ -1,9 +1,4 @@
-<img src="https://i.imgur.com/eTHQRVO.png" alt="Wallpaper Teus" border="0" width="100%">
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Teus">
-
-<a href="https://dev.to/teuscode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Meus artigos"></a>
-<a href="https://twitter.com/teuscode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Meu twitter"></a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Teus">
 
 <p align="left"> 
   Greetings, my name is Matheus. I am a software developer, ethical hacker and information security analyst.<br>
@@ -13,8 +8,8 @@
 
 ## 📚 Certificates Earned
 ```
+Certified by the Brazilian Cybersecurity Institute
 Systems Programmer at SENAC
-Information Technology Security by Fundação Bradesco
 Hacking and Pentest by Solyd Offensive Security
 Pentest by Desec Security
 Google Hacking by XPSec Security
