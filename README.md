@@ -1,4 +1,4 @@
-<img src="https://github.com/teuscode/teuscode/blob/main/imagens/others/lobo-logo.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador do Teus">
+<img src="https://imagensemoldes.com.br/wp-content/uploads/2020/05/%C3%8Dcone-%C3%93culos-PNG.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador do Teus">
 
 <p align="left"> 
   Greetings, my name is Matheus. I am a software developer, ethical hacker and information security analyst.<br>
