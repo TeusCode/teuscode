@@ -1,4 +1,4 @@
-<img src="https://imagensemoldes.com.br/wp-content/uploads/2020/05/%C3%8Dcone-%C3%93culos-PNG.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador do Teus">
+<img src="https://img.r7.com/images/2017/12/12/9f2ztvznh6_4qeqird1bt_file" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador do Teus">
 
 <p align="left"> 
   Greetings, my name is Matheus. I am a software developer, ethical hacker and information security analyst.<br>
