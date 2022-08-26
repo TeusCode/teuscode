@@ -17,7 +17,9 @@ Certificado na área de Pentest pela Desec Security
 Certificado na área de Google Hacking pela XPSec Security
 ```
 
-## 🚀 Languages and technologies that I know
+## 🚀 Linguagens e tecnologias que possuo conhecimento
+```• Atualmente estou estudando PHP e me aprofundando em JavaScript``` <br>
+
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="Python"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png" alt="C#"/></code>
