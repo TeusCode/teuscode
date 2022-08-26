@@ -1,18 +1,20 @@
 <img src="https://github.com/teuscode/teuscode/blob/main/imagens/others/readme-logo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Teus">
 
 <p align="left"> 
-  Greetings, my name is Matheus. I am a software developer, ethical hacker and information security analyst.<br>
-  I study defensive, offensive, and computer forensics cybersecurity.
-  Passionate about figuring out how things work. I have knowledge in Windows, Linux and Android systems.
+  Olá, meu nome é Matheus. 👋 <br>
+  
+  Sou desenvolvedor de software, hacker ético, analista de privacidade e proteção de dados, analista de inteligência de ameaças cibernéticas.
+  Eu estudo cibersegurança defensiva, ofensiva e computação forense.
+  Apaixonado por descobrir como as coisas funcionam. Tenho conhecimento nos sistemas Windows, Linux e Android.
 </p>
 
-## 📚 Certificates Earned
+## 📚 Certificados e certificações
 ```
-Certified by the Brazilian Cybersecurity Institute
-Systems Programmer at SENAC
-Hacking and Pentest by Solyd Offensive Security
-Pentest by Desec Security
-Google Hacking by XPSec Security
+Quatro certificações pelo Instituto Brasileiro de Cibersegurança
+Certificado como Programador de Sistemas pelo SENAC
+Certificado na área de hacking pela Solyd Offensive Security
+Certificado na área de Pentest pela Desec Security
+Certificado na área de Google Hacking pela XPSec Security
 ```
 
 ## 🚀 Languages and technologies that I know
