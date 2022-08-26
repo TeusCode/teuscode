@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, meu nome é Matheus. 👋 <br>
   
-  Sou desenvolvedor de software, hacker ético, analista de privacidade e proteção de dados, analista de inteligência de ameaças cibernéticas.
+  Sou desenvolvedor de software, hacker ético, analista de privacidade e proteção de dados e analista de inteligência de ameaças cibernéticas.
   Eu estudo cibersegurança defensiva, ofensiva e computação forense.
   Apaixonado por descobrir como as coisas funcionam. Tenho conhecimento nos sistemas Windows, Linux e Android.
 </p>
