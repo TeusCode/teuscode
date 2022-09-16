@@ -10,11 +10,8 @@
 
 ## 📚 Certificados e certificações
 ```
-Quatro certificações pelo Instituto Brasileiro de Cibersegurança
+Seis certificações pelo Instituto Brasileiro de Cibersegurança
 Certificado como Programador de Sistemas pelo SENAC
-Certificado na área de hacking pela Solyd Offensive Security
-Certificado na área de Pentest pela Desec Security
-Certificado na área de Google Hacking pela XPSec Security
 ```
 
 ## 🚀 Linguagens e tecnologias que possuo conhecimento
