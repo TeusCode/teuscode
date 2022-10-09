@@ -12,6 +12,7 @@
 ```
 Seis certificações pelo Instituto Brasileiro de Cibersegurança
 Certificado como Programador de Sistemas pelo SENAC
+Perito Forense Digital pela Academia de Forense Digital
 ```
 
 ## 🚀 Linguagens e tecnologias que possuo conhecimento
